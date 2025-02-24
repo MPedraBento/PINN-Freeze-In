@@ -3,7 +3,7 @@
 We parametrically solve the Boltzmann equations (BEs) governing freeze-in dark matter (DM) in alternative cosmologies with Physics-Informed Neural Networks (PINNs). Through inverse PINNs, using a single DM experimental point – observed relic density – we determine the physical attributes of the theory, namely power-law cosmologies, inspired by braneworld scenarios, and particle interaction cross sections.
 
 <p align="center">
-  <img src="https://github.com/MPedraBento/PINN-Freeze-In/blob/main/plots/ParametricRS.png" width="400" />  &nbsp  &nbsp &nbsp &nbsp &nbsp
+  <img src="https://github.com/MPedraBento/PINN-Freeze-In/blob/main/plots/ParametricRS.png" width="400" />  &nbsp  &nbsp &nbsp
   <img src="https://github.com/MPedraBento/PINN-Freeze-In/blob/main/plots/SwitchVsSmooth.png" width="400" /> 
 </p>
 
